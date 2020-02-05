@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="notif_channel_description">Canal Padrão de Notificações</string>
+    <string name="notif_channel_name">Padrão</string>
+</resources>
